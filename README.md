@@ -23,8 +23,8 @@ I'm an aspiring **software and electronics engineer** currently pursuing my **Ba
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak152004&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak152004&layout=compact&theme=github_dark)
 
 ### 📫 Let's Connect
 
