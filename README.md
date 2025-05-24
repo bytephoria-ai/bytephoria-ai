@@ -1,17 +1,44 @@
-# 👋 Hi, I'm Deepak kumar B
 
-🎯 Software Developer | [Your Tech Focus: e.g., Full-Stack Web Developer, Data Scientist, DevOps Engineer]**  
-📍 Based in [Your Location] | 💼 Open to new opportunities | 📧 [Your Email]
+# 👋 Hi, I'm Deepak Kumar B
+
+🎓 **Electronics & Software Enthusiast** | 🤖 IoT & Robotics Developer | 💡 Passionate Learner
+
+I'm an aspiring **software and electronics engineer** currently pursuing my **Bachelor of Engineering in Electrical and Electronics** at **KIT - Kalaignar Karunanidhi Institute of Technology**. I have a strong foundation in **C, C++, Python**, and **Java**, with hands-on experience in **IoT**, **embedded systems**, and **robotics**. My passion lies in building **smart systems** that bridge the gap between software and hardware.
+
+---
+
+### 🔧 Skills
+
+- **Languages:** Python, C, C++, Java, SQL  
+- **Frameworks & Tools:** ROS2, NumPy, SolidWorks, 3D Experience  
+- **Platforms:** Linux, Windows, Web  
+- **Soft Skills:** Leadership, Time Management, Technical Writing  
 
 ---
 
-## 🧑‍💻 About Me
+### 🚀 Projects & Competitions
 
-I'm a passionate and results-driven software developer with [X]+ years of experience building scalable, reliable, and user-focused applications. I specialize in [technologies or domains: e.g., JavaScript/TypeScript, React, Node.js, Python, AWS, Machine Learning], and I enjoy solving real-world problems through code.
+- 🏆 **e-Yantra Robotics Challenge 2024–25 (IIT Bombay)**  
+  Developing a warehouse automation solution using **ROS2**, **UR5 robotic arm**, and **ArUco marker detection**.
 
-I believe in writing clean, efficient code and following best practices in software development. I'm always learning and experimenting with new tools, frameworks, and workflows.
+- 💧 **IoT-Based Water Quality Monitoring System**  
+  Designed a system to measure **pH, TDS, and temperature** using sensors and remotely monitor data via web/mobile apps.
+
+- 🛰️ **ISRO Robotics Challenge 2024**  
+  Built a prototype for a **space exploration robot**; gained practical skills in embedded systems and teamwork.
 
 ---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)  
+- 💻 [GitHub](https://github.com/deepak152004)  
+- 📧 bdeepakkumar13@gmail.com
+
+---
+
+> “Striving to build innovative systems where electronics meet intelligence.”
+
 
 ## 🛠️ Tech Stack
 
