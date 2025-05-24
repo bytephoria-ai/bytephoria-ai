@@ -22,57 +22,11 @@ I'm an aspiring **software and electronics engineer** currently pursuing my **Ba
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
 
-### 🚀 Projects & Competitions
-
-- 🏆 **e-Yantra Robotics Challenge 2024–25 (IIT Bombay)**  
-  Developing a warehouse automation solution using **ROS2**, **UR5 robotic arm**, and **ArUco marker detection**.
-
-- 💧 **IoT-Based Water Quality Monitoring System**  
-  Designed a system to measure **pH, TDS, and temperature** using sensors and remotely monitor data via web/mobile apps.
-
-- 🛰️ **ISRO Robotics Challenge 2024**  
-  Built a prototype for a **space exploration robot**; gained practical skills in embedded systems and teamwork.
-
----
-
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)  
 - 💻 [GitHub](https://github.com/deepak152004)  
-- 📧 bdeepakkumar13@gmail.com
 
----
-
-> “Striving to build innovative systems where electronics meet intelligence.”
-
-
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, Python, TypeScript, Go, C++, Java  
-- **Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind  
-- **Backend:** Node.js, Express, Django, FastAPI, Flask  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis  
-- **DevOps & Tools:** Docker, GitHub Actions, AWS, CI/CD, Kubernetes  
-- **Testing:** Jest, Mocha, Cypress, PyTest  
-
----
-
-## 🔧 Projects
-
-Here are a few highlights — explore more in the [Repositories](https://github.com/yourusername?tab=repositories):
-
-- **[Project Name](https://github.com/yourusername/project)**  
-  🚀 Description of the project, main technologies used, and why it's noteworthy.  
-  _Tech Stack: React, Node.js, MongoDB_
-
-- **[Another Project](https://github.com/yourusername/project2)**  
-  📊 Data analysis or backend-focused app.  
-  _Tech Stack: Python, Pandas, Flask, PostgreSQL_
-
-- **[Open Source Contribution](https://github.com/opensource-project)**  
-  🛠 Contributed to a popular open-source project by fixing issues, improving documentation, or adding features.  
-
----
 
 ## 📈 GitHub Stats
 
@@ -83,9 +37,9 @@ Here are a few highlights — explore more in the [Repositories](https://github.
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🧠 [Portfolio Website](https://yourwebsite.dev)
-- 🐦 [Twitter](https://twitter.com/yourhandle) _(if applicable)_
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)
+- 🧠 [Portfolio Website]
+- 📧 [gmail]bdeepakkumar13@gmail.com
 
 ---
 
