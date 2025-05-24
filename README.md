@@ -25,23 +25,13 @@ I'm an aspiring **software and electronics engineer** currently pursuing my **Ba
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)  
-- 💻 [GitHub](https://github.com/deepak152004)  
+- 💻 [GitHub](https://github.com/bytephoria-ai)
 
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar-b-152004de/)
-- 🧠 [Portfolio Website]
-- 📧 [gmail]bdeepakkumar13@gmail.com
-
----
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
