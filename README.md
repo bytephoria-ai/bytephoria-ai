@@ -6,7 +6,7 @@
 I'm an aspiring **software and electronics engineer** currently pursuing my **Bachelor of Engineering in Electrical and Electronics** at **KIT - Kalaignar Karunanidhi Institute of Technology**. I have a strong foundation in **C, C++, Python**, and **Java**, with hands-on experience in **IoT**, **embedded systems**, and **robotics**. My passion lies in building **smart systems** that bridge the gap between software and hardware.
 
 ---
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Skills </h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
